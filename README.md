@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Newspaper Project
+This project is a simplified newsletter that enables the User to use CRUD operations to build a page displaying articles they would like to publish. It features a form submission entry and database of articles that is built overtime. 
 
-Things you may want to cover:
+Getting Started
 
-* Ruby version
+No special downloads are needed to run this project
+Ruby Version:ruby 2.6.0p0 (2018-12-25 revision 66547) [x64-mingw32]
 
-* System dependencies
+Rails Version:Rails 5.2.2
 
-* Configuration
 
-* Database creation
+Note:
+Visit localhost:3000/articles to visit the project
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Future Updates:
+Future iterations of this project will include more responsive design for the front end, a much larger database of articles, and other features to make the page more attractive

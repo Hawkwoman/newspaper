@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is a simplified newsletter that enables the User to use CRUD operations to build a page displaying articles they would like to publish. It features a form submission entry and database of articles that is built overtime. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Future iterations of this project will include more responsive design for the front end, a much larger database of articles, and other features to make the page more attractive
